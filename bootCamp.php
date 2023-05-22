@@ -27,7 +27,7 @@
                   <a href="#learn" class="nav-link">Photo</a>
                </li>
                <li class="nav-item">
-                  <a href="#learn" class="nav-link">Report</a>
+                  <a href="#learn" class="nav-link">Chat</a>
                </li>
                <li class="nav-item">
                   <a href="#learn" class="nav-link">Customers</a>
